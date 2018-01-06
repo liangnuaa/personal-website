@@ -56,3 +56,28 @@
 	height: 70px;
 	margin-bottom: 0px;
 }
+
+#footer-plain-text {
+	text-transform: none;
+}
+
+.project-title-div-block {
+	display: inline-block;
+}
+
+.project-title {
+	margin-top: 0px;
+}
+
+.project-link-block {
+	margin-left: 40px;
+	display: inline-block;
+}
+
+.first-project-link {
+	margin-right: 20px;
+}
+
+.project-intro-block {
+	text-align: left;
+}
